@@ -3,4 +3,34 @@
 .container {
     font-family: Arial, sans-serif;
     padding: 20px;
+    background-color: green;
+    color: #fafafa;
+}
+
+.cabecalho {
+    background-color: #fafafa;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.title {
+    color: rgb(60, 60, 209);
+    font-weight: bold;
+    font-size: 32px;
+
+}
+
+.sub-title {
+    color:#2c2c2c ;
+}
+
+.conteudo {
+    background-color: purple;
+    padding: 20px;
+}
+
+.conteudo h1 {
+    color: yellow;
 }
